@@ -1,2 +1,2 @@
 # notatki_5_sem
-Do obczajenia poprzez Jupytera bądź przez http://nbviewer.ipython.org/
+[Link do sensownej, renderującej latexowe rzeczy przeglądarki .ipynb](http://nbviewer.ipython.org/github/StanczakDominik/notatki_5_sem/tree/master/)
