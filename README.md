@@ -8,3 +8,5 @@ Moje notatki z piątego semestru. Nie obejmują podstaw optyki ani labfizu 2, ob
 Pisane w [Jupyter Notebook](https://github.com/numerical-mooc/numerical-mooc/blob/master/lessons/00_getting_started/00_03_Intro_to_Jupyter_notebook.md), genialnym formacie łączącym tekst w Markdownie, latexowe renderowanie wyrażeń matematycznych oraz modyfikowalny in-place (po uruchomieniu na własnym kompie) kod w jednym z wielu języków programowania świata (np. Pythonie). W tym jest generalnie MOC i warto to poznać!
 
 [Link do sensownej, renderującej latexowe rzeczy przeglądarki .ipynb](http://nbviewer.ipython.org/)
+
+Update 24.10 - stwierdziłem że z jądrami, PPPW i ciałkiem daję sobie spokój, zaś ćwiczenia z FSiTów mają za bardzo algebraiczno-trzaskaniową formę żeby je sensownie pisać bez kartki i długopisu. Ale dalej będą się tu dalej pojawiać FSiTy, a jak ktoś chce poczytać o algorytmach, to również proszę bardzo.
